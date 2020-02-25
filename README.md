@@ -6,5 +6,8 @@ A brief description of each project can be found below along with links to see t
 
 Projects:
 
-Hangman - A react implementation of the classic game Hangman.
+Hangman
 https://priceless-perlman-4364a1.netlify.com/
+
+Lights Out - The classic game Lights Out, turn off all the lights to win.
+https://clever-payne-8fc0ae.netlify.com/
