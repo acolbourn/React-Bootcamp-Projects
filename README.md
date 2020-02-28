@@ -6,8 +6,11 @@ A brief description of each project can be found below along with links to see t
 
 Projects:
 
-Hangman
+Hangman<br/>
 https://priceless-perlman-4364a1.netlify.com/
 
-Lights Out - The classic game Lights Out, turn off all the lights to win.
+Lights Out - The classic game Lights Out, turn off all the lights to win.<br/>
 https://clever-payne-8fc0ae.netlify.com/
+
+Todo List<br/>
+https://unruffled-haibt-21c6de.netlify.com/
