@@ -9,8 +9,11 @@ Projects:
 Hangman<br/>
 https://priceless-perlman-4364a1.netlify.com/
 
-Lights Out - The classic game Lights Out, turn off all the lights to win.<br/>
+Lights Out - Turn off all the lights to win.<br/>
 https://clever-payne-8fc0ae.netlify.com/
 
 Todo List<br/>
 https://unruffled-haibt-21c6de.netlify.com/
+
+Yahtzee<br/>
+https://keen-almeida-7f8c34.netlify.com/
