@@ -17,3 +17,6 @@ https://unruffled-haibt-21c6de.netlify.com/
 
 Yahtzee<br/>
 https://keen-almeida-7f8c34.netlify.com/
+
+Dad Jokes - Fetches jokes from an API. Handles voting/sorting and uses local storage to prevent duplicate jokes.<br/>
+https://priceless-minsky-751dd3.netlify.com/
