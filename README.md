@@ -28,6 +28,16 @@ https://keen-almeida-7f8c34.netlify.com/
 Fetches jokes from an API. Handles voting/sorting and uses local storage to prevent duplicate jokes.<br/>
 https://priceless-minsky-751dd3.netlify.com/
 
+## Context App<br/>
+
+A simple project to learn React Contexts. Dark mode and language can be switched using contexts.<br/>
+https://keen-knuth-3d6fdd.netlify.app/
+
+## Todo App w/ Hooks, useContext, and useReducer<br/>
+
+A Todo app completely built using Hooks, useContext, and useReducer.<br/>
+https://loving-meninsky-42ef4e.netlify.app/
+
 ## Color Picker<br/>
 
 This is the capstone project of the bootcamp. It's a color palette website that lets you create and manage color pallettes. Click on a color to copy it's value to your clipboard. In the navbar, you can use the slider to edit the brightness and swith between hex, rgb, and rgba format. In the create palette section, colors can be clicked and dragged to dynamically reorder them.<br/>
